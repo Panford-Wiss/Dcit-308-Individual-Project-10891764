@@ -1,1 +1,1 @@
-# Dcit-308-Project
+# Dcit-308 Individual Project
